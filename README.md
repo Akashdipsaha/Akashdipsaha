@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akashdip Saha</h1>
-<h3 align="center">Data Analyst | AI & Machine Learning Engineer | Problem Solver</h3>
+<h3 align="center">AI & Data Analyst | Bridging Machine Learning, Automation, and Business Impact</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Data+Analyst+%40+Shaktighar+Textiles;Building+Agentic+AI+Systems;Amazon+ML+Summer+School+Alum;Driving+Decisions+with+Data" alt="Typing SVG" /></a>
@@ -17,11 +17,23 @@ I am a **Computer Science graduate from KIIT University**, currently working as 
 
 ## 💼 Professional Highlights
 
-- 🏭 **Shaktighar Textiles:** Applying LLMs, Agentic AI, and predictive analytics to optimize procurement and production.
-- ☁️ **Infosys (Intern):** Built a Flask-based anomaly detection system for healthcare billing (0.97 F1-score).
-- 🏆 **Amazon ML Summer School:** Selected among the top 3,000 from 81,000+ applicants for advanced ML training.
-- 📊 **Celebal Technologies (Intern):** Improved credit risk analysis models to 82% accuracy using XGBoost.
-- ☁️ **Salesforce (Intern):** Developed Apex triggers and Visualforce pages to optimize client workflows.
+🔹 **Shaktighar Textiles & Industries Ltd. – Data Analyst (GET)**  
+Leveraging **LLMs, agentic AI, and predictive analytics** to optimize procurement workflows, vendor performance, and production systems.
+
+🔹 **Infosys – Data Science Intern**  
+Developed an **anomaly detection system** for healthcare billing using ML/DL. Achieved an **F1-score of 0.97** and deployed via **Flask**.
+
+🔹 **Amazon ML Summer School 2024**  
+Selected among **top 3,000 out of 81,000+ applicants**. Trained in **advanced ML concepts, generative AI, and optimization techniques**.
+
+🔹 **Celebal Technologies – Data Science Intern**  
+Enhanced credit risk analysis models to **82% accuracy** using **XGBoost and ensemble learning**.
+
+🔹 **Salesforce – Developer Intern**  
+Built **Apex triggers**, **Visualforce pages**, and integrated **Salesforce APIs** for automated client workflows.
+
+🔹 **KaroStartup & Internship Studio – UI/UX Intern**  
+Created **responsive, intuitive designs** and **gamified user experiences**, improving user engagement metrics.
 
 ---
 
