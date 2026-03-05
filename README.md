@@ -18,7 +18,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2000&pause=800&color=00FFC8&background=0D111800&multiline=true&repeat=false&width=700&height=220&lines=%E2%9D%AF+whoami;+;++Akashdip+Saha+%E2%80%94+vibe+coder+by+instinct%2C+systems+engineer+by+necessity.;+;++Took+handwritten+jute+ledgers+from+the+1970s;++%E2%86%92+turned+them+into+a+production-grade+Agentic+AI+platform.;++No+templates.+No+tutorials.+Just+vibes.+%5BLIVE+IN+PROD%5D;+;%E2%9D%AF+cat+status.json;++current_role+%3A+Data+Analyst+%40+Shaktighar+Textiles+%E2%97%8F+ACTIVE;++location+++%3A+Siliguri%2C+West+Bengal+%F0%9F%93%8D;++open_to++++%3A+Full-time+AI%2FML+%26+Data+Engineering+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=600&color=00FFB4&background=0D111800&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=260&lines=%E2%9D%AF+whoami;+;++++Akashdip+Saha+%E2%80%94+vibe+coder+by+instinct%2C;++++systems+engineer+by+necessity.;+;++++Took+handwritten+jute+ledgers+from+the+1970s;++++%E2%86%92+turned+them+into+a+production-grade+Agentic+AI+platform.;++++No+templates.+No+tutorials.+Just+vibes.+%E2%9A%A1;+;%E2%9D%AF+cat+status.json;+;++++current_role+%3A%3A+Data+Analyst+%40+Shaktighar+Textiles+%E2%97%8F+ACTIVE;++++location+++++%3A%3A+Kolkata%2C+West+Bengal+%F0%9F%93%8D;++++open_to++++++%3A%3A+Full-time+AI%2FML+%26+Data+Engineering+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
