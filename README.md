@@ -18,22 +18,7 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  > whoami                                                    ║
-║                                                              ║
-║    Akashdip Saha — vibe coder by instinct,                   ║
-║    systems engineer by necessity.                            ║
-║                                                              ║
-║    I took handwritten jute ledgers from the 1970s            ║
-║    and turned them into a production-grade                   ║
-║    Agentic AI platform. No templates. No tutorials.          ║
-║                                                              ║
-║  > current_status: Building @ Shaktighar Textiles 🏭         ║
-║  > location: Siliguri, West Bengal 📍                        ║
-║  > open_to: Full-time AI/ML & Data Engineering roles 🚀      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2000&pause=800&color=00FFC8&background=0D111800&multiline=true&repeat=false&width=700&height=220&lines=%E2%9D%AF+whoami;+;++Akashdip+Saha+%E2%80%94+vibe+coder+by+instinct%2C+systems+engineer+by+necessity.;+;++Took+handwritten+jute+ledgers+from+the+1970s;++%E2%86%92+turned+them+into+a+production-grade+Agentic+AI+platform.;++No+templates.+No+tutorials.+Just+vibes.+%5BLIVE+IN+PROD%5D;+;%E2%9D%AF+cat+status.json;++current_role+%3A+Data+Analyst+%40+Shaktighar+Textiles+%E2%97%8F+ACTIVE;++location+++%3A+Siliguri%2C+West+Bengal+%F0%9F%93%8D;++open_to++++%3A+Full-time+AI%2FML+%26+Data+Engineering+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
