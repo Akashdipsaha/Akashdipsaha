@@ -1,5 +1,5 @@
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--          AKASHDIP SAHA  ·  GITHUB README  ∞ v5.0         -->
+<!--          AKASHDIP SAHA  ·  GITHUB README  ∞ v5.1         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -7,12 +7,11 @@
 <!-- ▓▓▓  DEEP-SPACE HEADER  ▓▓▓ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000814,18:03045e,38:0d0221,55:1a0038,72:560bad,88:9d0208,100:e63946&height=80&section=header&animation=fadeIn"/>
 
-<!-- ▓▓▓  GRADIENT-ANIMATED NAME — SVG  ▓▓▓ -->
-<!-- Save name-banner.svg to your repo root and this will render perfectly -->
-<img src="./name-banner.svg" width="860" alt="Akashdip Saha"/>
+<!-- ▓▓▓  GRADIENT-ANIMATED NAME — EMBEDDED SVG  ▓▓▓ -->
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODYwIiBoZWlnaHQ9IjEzMCIgdmlld0JveD0iMCAwIDg2MCAxMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9Im5hbWVHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiPgogICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiCiAgICAgICAgICB2YWx1ZXM9IiMwMzA0NWU7IzRjYzlmMDsjMDMwNDVlIgogICAgICAgICAgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgICAgPC9zdG9wPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiPgogICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0b3AtY29sb3IiCiAgICAgICAgICB2YWx1ZXM9IiM0Y2M5ZjA7IzAzMDQ1ZTsjNGNjOWYwIgogICAgICAgICAgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgICAgPC9zdG9wPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic3ViR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIj4KICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIgogICAgICAgICAgdmFsdWVzPSIjNDM2MWVlOyM5MGUwZWY7IzQzNjFlZSIKICAgICAgICAgIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDwvc3RvcD4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIj4KICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJzdG9wLWNvbG9yIgogICAgICAgICAgdmFsdWVzPSIjOTBlMGVmOyM0MzYxZWU7IzkwZTBlZiIKICAgICAgICAgIGR1cj0iNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgIDwvc3RvcD4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93Ij4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNiIgcmVzdWx0PSJibHVyIi8+CiAgICAgIDxmZU1lcmdlPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iYmx1ciIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9InN1Ymdsb3ciPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIyLjUiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4NjAiIGhlaWdodD0iMTMwIiBmaWxsPSIjMDAwODE0Ii8+CiAgPHRleHQKICAgIHg9IjQzMCIgeT0iNzIiCiAgICBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIgogICAgZm9udC1zaXplPSI2MCIKICAgIGZvbnQtd2VpZ2h0PSI5MDAiCiAgICB0ZXh0LWFuY2hvcj0ibWlkZGxlIgogICAgZmlsbD0idXJsKCNuYW1lR3JhZCkiCiAgICBmaWx0ZXI9InVybCgjZ2xvdykiCiAgICBsZXR0ZXItc3BhY2luZz0iMTAiPkFLQVNIRElQIFNBSEE8L3RleHQ+CiAgPHRleHQKICAgIHg9IjQzMCIgeT0iMTEwIgogICAgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIKICAgIGZvbnQtc2l6ZT0iMTMiCiAgICBmb250LXdlaWdodD0iNDAwIgogICAgdGV4dC1hbmNob3I9Im1pZGRsZSIKICAgIGZpbGw9InVybCgjc3ViR3JhZCkiCiAgICBmaWx0ZXI9InVybCgjc3ViZ2xvdykiCiAgICBsZXR0ZXItc3BhY2luZz0iNiI+4peIICBBR0VOVElDIEFJIEFSQ0hJVEVDVCAgwrcgIFNZU1RFTVMgRU5HSU5FRVIgIMK3ICBWSUJFIENPREVSICDil4g8L3RleHQ+Cjwvc3ZnPgo=" width="860" alt="Akashdip Saha"/>
 
 <!-- ▓▓▓  CHROMATIC STRIPE  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e63946,20:ff9f1c,40:52b788,60:4cc9f0,80:4361ee,100:c77dff&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,33:4361ee,66:4cc9f0,100:90e0ef&height=4&section=header" width="100%"/>
 
 <br/>
 
@@ -143,7 +142,7 @@ Multi-pass Expert Matching Engine + SAP Fiori dual-mode UI. **Built raw** from s
 <!-- MISSION 4 -->
 <td align="center" valign="top" width="25%">
 
-<img src="https://img.shields.io/badge/MISSION__δ-DATA_GOVERNANCE-c77dff?style=for-the-badge&labelColor=240046" width="100%"/>
+<img src="https://img.shields.io/badge/MISSION__δ-DATA_GOVERNANCE-90e0ef?style=for-the-badge&labelColor=0077b6" width="100%"/>
 
 <br/><br/>
 
@@ -175,12 +174,12 @@ Entity deduplication + NLP over **20,000+ SAP MARA records** via LSMW bulk uploa
 
 <table>
 <tr>
-<td align="center" valign="middle" width="18%">
+<td align="center" valign="middle" width="20%">
 
 ![2025→NOW](https://img.shields.io/badge/2025_→_NOW-DATA_ANALYST-4cc9f0?style=for-the-badge&labelColor=03045e)
 
 </td>
-<td valign="top" width="82%">
+<td valign="top" width="80%">
 
 **🏭 Shaktighar Textiles & Industries Ltd.**
 
@@ -191,7 +190,7 @@ Agentic AI Document Intelligence · SAP ABAP · LLM Pipelines · Zero-touch RPA 
 </td>
 </tr>
 
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:e63946&height=1&section=header" width="100%"/></td></tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:0096c7&height=1&section=header" width="100%"/></td></tr>
 
 <tr>
 <td align="center" valign="middle">
@@ -210,7 +209,7 @@ Anomaly detection on healthcare billing · Isolation Forest + ANN Autoencoder ·
 </td>
 </tr>
 
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:e63946&height=1&section=header" width="100%"/></td></tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:0096c7&height=1&section=header" width="100%"/></td></tr>
 
 <tr>
 <td align="center" valign="middle">
@@ -229,7 +228,7 @@ Trained directly by Amazon Applied Scientists · Top **3.7%** globally
 </td>
 </tr>
 
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:e63946&height=1&section=header" width="100%"/></td></tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:0096c7&height=1&section=header" width="100%"/></td></tr>
 
 <tr>
 <td align="center" valign="middle">
@@ -248,7 +247,7 @@ Multi-class credit risk classifier (P1–P4)
 </td>
 </tr>
 
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:e63946&height=1&section=header" width="100%"/></td></tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:0096c7&height=1&section=header" width="100%"/></td></tr>
 
 <tr>
 <td align="center" valign="middle">
@@ -260,19 +259,17 @@ Multi-class credit risk classifier (P1–P4)
 
 **☁️ Developer Intern · Salesforce**
 
-Apex triggers · Visualforce pages · Salesforce API integrations
-
-*First taste of enterprise-scale dev. Real clients. Real stakes.*
+Apex triggers · Visualforce pages · Salesforce API integrations · Enterprise scale. Real clients. Real stakes.
 
 </td>
 </tr>
 
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:e63946&height=1&section=header" width="100%"/></td></tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:0096c7&height=1&section=header" width="100%"/></td></tr>
 
 <tr>
 <td align="center" valign="middle">
 
-![2023](https://img.shields.io/badge/2023-UI%2FUX-c77dff?style=for-the-badge&labelColor=240046)
+![2023](https://img.shields.io/badge/2023-UI%2FUX-90e0ef?style=for-the-badge&labelColor=0077b6)
 
 </td>
 <td valign="top">
@@ -286,7 +283,7 @@ Responsive interfaces · Gamified engagement features
 </td>
 </tr>
 
-<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:e63946&height=1&section=header" width="100%"/></td></tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:0096c7&height=1&section=header" width="100%"/></td></tr>
 
 <tr>
 <td align="center" valign="middle">
@@ -300,9 +297,7 @@ Responsive interfaces · Gamified engagement features
 
 *"Leveraging Advanced Deep Learning for Dermatological Image Classification"*
 
-EfficientNet-B1 · ResNet152 · VGG19 · DenseNet121
-
-**Accuracy:** `████████████████████████████████████ 86.53%`
+EfficientNet-B1 · ResNet152 · VGG19 · DenseNet121 &nbsp;|&nbsp; **Accuracy:** `████████████████████████ 86.53%`
 
 </td>
 </tr>
@@ -316,7 +311,7 @@ EfficientNet-B1 · ResNet152 · VGG19 · DenseNet121
 
 <!-- ══════════════  TECH DASHBOARD  ══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001219,50:005f73,100:0a9396&height=70&section=header&text=🏎️%20%20ECU%20DASHBOARD%20—%20TECH%20STACK%20%20🏎️&fontSize=23&fontColor=94d2bd&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000814,50:03045e,100:023e8a&height=70&section=header&text=🏎️%20%20ECU%20DASHBOARD%20—%20TECH%20STACK%20%20🏎️&fontSize=23&fontColor=4cc9f0&fontAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -341,11 +336,11 @@ EfficientNet-B1 · ResNet152 · VGG19 · DenseNet121
 
 **🔴 NITROUS · AGENTIC AI & LLMs**
 
-![Gemini](https://img.shields.io/badge/Google_Gemini-240046?style=for-the-badge&logo=google&logoColor=c77dff)
+![Gemini](https://img.shields.io/badge/Google_Gemini-0d0221?style=for-the-badge&logo=google&logoColor=4cc9f0)
 ![Groq](https://img.shields.io/badge/Llama_4_via_Groq-7b0000?style=for-the-badge&logo=meta&logoColor=ff9f1c)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-005f73?style=for-the-badge&logoColor=94d2bd)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-03045e?style=for-the-badge&logoColor=90e0ef)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-0d0221?style=for-the-badge&logoColor=4cc9f0)
-![Prompt](https://img.shields.io/badge/Prompt_Engineering-1a0533?style=for-the-badge&logoColor=c77dff)
+![Prompt](https://img.shields.io/badge/Prompt_Engineering-03045e?style=for-the-badge&logoColor=90e0ef)
 
 </td>
 </tr>
@@ -357,7 +352,7 @@ EfficientNet-B1 · ResNet152 · VGG19 · DenseNet121
 ![SAP ABAP](https://img.shields.io/badge/SAP_ABAP-03045e?style=for-the-badge&logo=sap&logoColor=4cc9f0)
 ![S4HANA](https://img.shields.io/badge/S%2F4HANA-03045e?style=for-the-badge&logo=sap&logoColor=90e0ef)
 ![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-0d3b66?style=for-the-badge&logo=sap&logoColor=4cc9f0)
-![OData](https://img.shields.io/badge/OData_REST_APIs-005f73?style=for-the-badge&logoColor=94d2bd)
+![OData](https://img.shields.io/badge/OData_REST_APIs-03045e?style=for-the-badge&logoColor=90e0ef)
 ![LSMW](https://img.shields.io/badge/LSMW_Bulk_Upload-0d3b66?style=for-the-badge&logo=sap&logoColor=4cc9f0)
 
 </td>
@@ -370,7 +365,7 @@ EfficientNet-B1 · ResNet152 · VGG19 · DenseNet121
 ![Docker](https://img.shields.io/badge/Docker-03045e?style=for-the-badge&logo=docker&logoColor=4cc9f0)
 ![Power BI](https://img.shields.io/badge/Power_BI-7b0000?style=for-the-badge&logo=powerbi&logoColor=ff9f1c)
 ![Git](https://img.shields.io/badge/Git-7b0000?style=for-the-badge&logo=git&logoColor=ff6b6b)
-![Figma](https://img.shields.io/badge/Figma-240046?style=for-the-badge&logo=figma&logoColor=c77dff)
+![Figma](https://img.shields.io/badge/Figma-0d3b66?style=for-the-badge&logo=figma&logoColor=90e0ef)
 
 </td>
 </tr>
@@ -384,7 +379,7 @@ EfficientNet-B1 · ResNet152 · VGG19 · DenseNet121
 
 <!-- ══════════════  ACHIEVEMENT GALAXY  ══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:03001e,50:240046,100:560bad&height=70&section=header&text=🌠%20%20ACHIEVEMENT%20GALAXY%20%20🌠&fontSize=23&fontColor=c77dff&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000814,50:03045e,100:0096c7&height=70&section=header&text=🌠%20%20ACHIEVEMENT%20GALAXY%20%20🌠&fontSize=23&fontColor=90e0ef&fontAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -398,8 +393,8 @@ EfficientNet-B1 · ResNet152 · VGG19 · DenseNet121
 
 **Top 3,000 / 81,000+**
 
-Applicants cleared: `97,000+`
-Your rank: **Top 3.7%**
+Cleared 81,000+ applicant field
+Rank: **Top 3.7% globally**
 Mentors: Amazon Applied Scientists
 
 `░░░░░░░░░░░░░░░░░░░░░░░░▓ TOP`
@@ -455,7 +450,7 @@ VGG19 · DenseNet121
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashdipsaha&bg_color=000814&color=4cc9f0&line=e63946&point=ff6b6b&area=true&area_color=03045e&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashdipsaha&bg_color=000814&color=4cc9f0&line=4361ee&point=90e0ef&area=true&area_color=03045e&hide_border=true" width="100%"/>
 
 </div>
 
@@ -465,7 +460,7 @@ VGG19 · DenseNet121
 
 <!-- ══════════════  MANIFESTO  ══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7b0000,50:9d0208,100:e85d04&height=70&section=header&text=🎨%20%20THE%20MANIFESTO%20%20🎨&fontSize=23&fontColor=ffddd2&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000814,50:03045e,100:0077b6&height=70&section=header&text=🎨%20%20THE%20MANIFESTO%20%20🎨&fontSize=23&fontColor=90e0ef&fontAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -504,14 +499,14 @@ I launched **20,000 dirty records** into a pipeline and they came out the other 
 <br/>
 
 [![OPEN TO WORK](https://img.shields.io/badge/🚀_OPEN_TO_WORK-AI%2FML_·_Data_Engineering_·_Agentic_AI-4cc9f0?style=for-the-badge&labelColor=03045e)](mailto:officialakashdip.333@gmail.com)&nbsp;
-[![EMAIL](https://img.shields.io/badge/📧_Email-officialakashdip.333@gmail.com-ff6b6b?style=for-the-badge&labelColor=7b0000)](mailto:officialakashdip.333@gmail.com)&nbsp;
+[![EMAIL](https://img.shields.io/badge/📧_Email-officialakashdip.333@gmail.com-90e0ef?style=for-the-badge&labelColor=0077b6)](mailto:officialakashdip.333@gmail.com)&nbsp;
 [![LINKEDIN](https://img.shields.io/badge/🔗_LinkedIn-akashdip--saha-4361ee?style=for-the-badge&labelColor=03045e)](https://linkedin.com/in/akashdip-saha)
 
 <br/>
 
 ![Velocity](https://img.shields.io/badge/⚡_VELOCITY-REDLINE-e63946?style=flat-square&labelColor=7b0000)&nbsp;
 ![Altitude](https://img.shields.io/badge/🌌_ALTITUDE-GEO--SYNC-4cc9f0?style=flat-square&labelColor=03045e)&nbsp;
-![Aperture](https://img.shields.io/badge/📸_APERTURE-f%2F1.4-c77dff?style=flat-square&labelColor=240046)&nbsp;
+![Aperture](https://img.shields.io/badge/📸_APERTURE-f%2F1.4-90e0ef?style=flat-square&labelColor=0077b6)&nbsp;
 ![Fuel](https://img.shields.io/badge/⛽_FUEL-CURIOSITY-52b788?style=flat-square&labelColor=1b4332)&nbsp;
 ![Streak](https://img.shields.io/badge/🔥_STREAK-INFINITE-ff9f1c?style=flat-square&labelColor=7b2d00)
 
@@ -520,5 +515,5 @@ I launched **20,000 dirty records** into a pipeline and they came out the other 
 <br/>
 
 <!-- ══════  FOOTER  ══════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e63946,20:ff9f1c,40:52b788,60:4cc9f0,80:4361ee,100:c77dff&height=4&section=footer" width="100%"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000814,25:03045e,50:0d0221,75:560bad,100:e63946&height=180&section=footer&text=🚀%20TRANSMISSION%20ENDED&fontSize=34&fontColor=90e0ef&fontAlignY=52&desc=See%20you%20in%20orbit%20·%20or%20in%20production.&descAlignY=73&descSize=15&animation=fadeIn&stroke=4cc9f0&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,33:4361ee,66:4cc9f0,100:90e0ef&height=4&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000814,25:03045e,50:0d0221,75:0096c7,100:4cc9f0&height=180&section=footer&text=🚀%20TRANSMISSION%20ENDED&fontSize=34&fontColor=90e0ef&fontAlignY=52&desc=See%20you%20in%20orbit%20·%20or%20in%20production.&descAlignY=73&descSize=15&animation=fadeIn&stroke=4cc9f0&strokeWidth=2"/>
